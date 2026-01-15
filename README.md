@@ -25,6 +25,3 @@ The project was completed as part of **Modern Data Science (SIT742)** coursework
 - **Big Data Processing Pipelines**
 - **Jupyter Notebook / Databricks-like workflow**
 
----
-
-## 📁 Project Structure
