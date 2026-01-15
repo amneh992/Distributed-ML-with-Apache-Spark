@@ -1,0 +1,14 @@
+
+
+##  Key Results
+- Built a scalable ETL pipeline using Spark  
+- Processed thousands of records in distributed fashion  
+- Achieved strong model performance with optimized features  
+- Demonstrated practical understanding of Big Data and ML systems  
+
+
+
+##  How to Run
+1. Install dependencies  
+```bash
+pip install pyspark
