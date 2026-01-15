@@ -6,7 +6,7 @@ The project was completed as part of **Modern Data Science (SIT742)** coursework
 
 ---
 
-## 🔍 Objectives
+##  Objectives
 - Process large-scale transactional data using Spark's distributed architecture  
 - Perform feature engineering and data cleaning at scale  
 - Train supervised ML models such as:
@@ -18,7 +18,7 @@ The project was completed as part of **Modern Data Science (SIT742)** coursework
 
 ---
 
-## 🧠 Technologies & Tools
+##  Technologies & Tools
 - **Apache Spark**
 - **Spark MLlib**
 - **Python (PySpark)**
